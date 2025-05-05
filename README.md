@@ -30,4 +30,9 @@
 ### Install Dependencies:
 
 ```bash
+sudo apt update && sudo apt install curl jq nikto sqlmap wfuzz netcat
+
+### Install Dependencies:
+
+```bash
 sudo apt update && sudo apt install curl jq nikto sqlmap wfuzz
