@@ -1,6 +1,6 @@
 # WAF Evasion Techniques & Multi-Stage Testing
 
-![WAF Evasion Techniques](https://media.giphy.com/media/3o6Zt6eq7X8gMX9VYI/giphy.gif)  
+![WAF Evasion Techniques](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 *Automated WAF Bypass and Exploitation Framework*
 
 ## Key Features
